@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2019/11/06/article-title/</loc>
+    
+    <lastmod>2019-11-14T08:04:33.204Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2019-11-14T07:14:35.191Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/11/14/%25E4%25BB%258A%25E6%2597%25A5%25E4%25BB%25BD%25E5%25B0%258F%25E9%25B1%25BC%25E5%25B9%25B2/</loc>
+    
+    <lastmod>2019-11-14T07:01:51.312Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/11/06/hello-world/</loc>
+    
+    <lastmod>2019-11-06T07:55:46.950Z</lastmod>
+    
+  </url>
+  
+</urlset>
